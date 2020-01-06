@@ -1,0 +1,9 @@
+div{
+  height:100px;
+  width:100px;
+  border:5px solid red;
+  border-radius:50%;
+  background-image: url("puppy.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
