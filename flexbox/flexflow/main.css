@@ -1,10 +1,15 @@
 section{display:flex;
-        flex-flow: row no-wrap;
+        flex-flow: row wrap;
         justify-content:center;
+        align-items: center;
         border:2px solid red;
       }
 
 div{height:100px;
     width:100px;
     background-color:blue;
-    border:2px solid black}
+    border:2px solid black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    }
