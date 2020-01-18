@@ -1,0 +1,17 @@
+div{height:200px;
+width:200px;
+background-color:yellow;
+border:2px solid blue;}
+
+header{display:flex;
+      /* flex-wrap:no-wrap; */
+      /* flex-direction:row; */
+      justify-content:space-between;
+    }
+section{display:flex;
+        flex-wrap:wrap;}
+
+.dcss{height:100px;
+      width:100px;
+    background-color:blue;
+  border:2px solid red;}
