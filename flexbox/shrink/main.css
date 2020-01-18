@@ -1,0 +1,17 @@
+section{
+  display:flex;
+  flex-flow:row no-wrap;
+  border: 2px solid red;
+}
+
+div{
+  height:100px;
+  width:200px;
+  border:2px solid blue;
+  background-color:brown;
+}
+
+
+.four{flex-shrink:2}
+
+.two{flex-shrink:1}
