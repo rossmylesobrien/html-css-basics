@@ -1,0 +1,10 @@
+section{display:flex;
+        flex-flow: row no-wrap;
+        justify-content:center;
+        border:2px solid red;
+      }
+
+div{height:100px;
+    width:100px;
+    background-color:blue;
+    border:2px solid black}
