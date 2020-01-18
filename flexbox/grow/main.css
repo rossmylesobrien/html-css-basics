@@ -1,0 +1,11 @@
+section{display:flex;
+        flex-flow: row wrap;
+        justify-content:center;
+        border:2px solid red;}
+
+div{height:100px;
+    width:100px;
+    border:2px solid blue;
+    background-color:orange;}
+
+.three{flex-grow:2;}
