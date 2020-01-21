@@ -1,0 +1,15 @@
+body {
+    width: 800px;
+}
+
+.one {
+    width: 60%;
+}
+
+.two {
+    width: 40%;
+}
+
+.three, .four, .five {
+    width: 33.33%;
+}
