@@ -1,0 +1,11 @@
+.one{
+  width:50%;
+  order:3
+}
+.two{
+  width:50%;
+  order:2
+}
+
+.three{width:100%;
+        order:1}

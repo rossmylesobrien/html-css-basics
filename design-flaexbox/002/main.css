@@ -1,0 +1,22 @@
+.one {
+    color: #fff;
+    background-color: #003476;
+}
+
+.two{color: #fff;
+    background-color: #0062d2;}
+
+.three{color: #fff;
+    background-color: #b4d2f7;}
+
+
+body{
+  display:flex;
+  flex-flow:row wrap;
+  width:100%;
+  margin: 0;
+  padding:0;
+}
+
+.one, .two, .three{height:150px;
+                  width:100%;}
